@@ -33,7 +33,7 @@ const fontLayout = "bold 50px Arial";
 
 let balls = [];
 let score = 0;
-let timeLimit = 6000;
+let timeLimit = 600;
 let printLimit = timeLimit / 10;
 let naviko = new Image();
 let navScale = 1
